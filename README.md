@@ -13,7 +13,7 @@ The maps of Level 2 and Level 3 boundaries are shown below, also generated using
 ![Nepal_local_level](https://github.com/shravan-ghimire/NepalAdminGIS/assets/83561429/d02c1128-980d-42dc-87ba-f42247a32946)
 
 Here the official boundary of Nepal is incorporated into the GADM administrative boundary of the world. GADM boundaries are freely available for academic and non-profit use from: https://gadm.org/download_world.html . The following method is used to integrate Nepal's official boundary into the world country dataset.
-![Nepal_adminsitrative_levels](https://github.com/shravan-ghimire/NepalAdminGIS/assets/83561429/d1b6efe0-7506-4867-843a-69b1043677e5)
+![GADM_Editing_Procedure](https://github.com/shravan-ghimire/NepalAdminGIS/assets/83561429/b1b3522b-d681-4bbc-a4cc-2978b6ac0e26)
 
 The resultant map of the world is shown below;
 ![Figure_Nepal_in_GADM](https://github.com/shravan-ghimire/NepalAdminGIS/assets/83561429/f7a6ec53-480a-4089-a82d-615e89a0d28d)
