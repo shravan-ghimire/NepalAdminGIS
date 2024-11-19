@@ -11,7 +11,7 @@ fig, ax=plt.subplots(figsize=(10,8))
 gdf3.plot(ax=ax, color='silver', edgecolor='white', linewidth=0.5)
 gdf2.plot(ax=ax, facecolor='none', edgecolor='maroon', linewidth=0.5)
 
-# label the features, labels are in 'Province' column
+# label the features, labels are in 'FIRST_DIST' column
 for idx, row in gdf2.iterrows():
     plt.annotate(text=row['FIRST_DIST'], xy=(row.geometry.centroid.x, row.geometry.centroid.y),
                  xytext=(3, 3), textcoords="offset points", fontsize=4, fontweight='bold', color='black')
